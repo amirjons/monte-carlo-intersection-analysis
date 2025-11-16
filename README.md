@@ -1,1 +1,0 @@
-# monte-carlo-intersection-analysis
